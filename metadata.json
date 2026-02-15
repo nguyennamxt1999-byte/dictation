@@ -1,0 +1,5 @@
+{
+  "name": "Dictation Master",
+  "description": "An AI-powered English dictation practice tool. Upload audio, review the transcription, and master your listening skills sentence by sentence.",
+  "requestFramePermissions": []
+}
